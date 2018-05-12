@@ -1,0 +1,31 @@
+_repo: A-Christmas-Accident-and-Other-Stories_28307
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28307-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Trumbull, Annie Eliot
+    birthdate: 1857
+    deathdate: 1949
+    gutenberg_agent_id: '33255'
+    url: http://www.gutenberg.org/2009/agents/33255
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2009-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Christmas stories'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+tableOfContents: A Christmas accident -- After--the Deluge -- Memoir of Mary Twining
+  -- A postlude -- The "Daily Morning Chronicle" -- Hearts unfortified -- Her neighbor's
+  landmark.
+title: A Christmas Accident and Other Stories
+url: http://www.gutenberg.org/ebooks/28307
